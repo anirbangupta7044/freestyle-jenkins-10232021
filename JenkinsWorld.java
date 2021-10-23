@@ -1,6 +1,6 @@
-public class JENKINSWorld {
+public class JenkinsWorld {
   public static void main(String[] args) {
-	System.out.println("JENKINS, World");
+	System.out.println("Jenkins, World");
   }
 }
 
